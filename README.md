@@ -1,4 +1,4 @@
-# SCREENCHOTS
+# SCREENSHOTS
 
 <img width="367" height="367" alt="Screenshot 2025-12-28 at 1 05 36 PM" src="https://github.com/user-attachments/assets/00583001-2c8e-4e1b-a449-92aa89e6390d" />
 <img width="591" height="374" alt="Screenshot 2025-12-28 at 1 05 48 PM" src="https://github.com/user-attachments/assets/4ee84b12-a661-4445-a758-e3c6f1e2fb35" />
